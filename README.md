@@ -100,6 +100,18 @@ Portable Analog Sensor logging device built with ESP32, TCA9548A,ADS1115,SSD1306
 - [ESP32 DataSheet](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf)
 - [ESP32 Wiki](http://arduinoinfo.mywikis.net/wiki/Esp32)
 
+#### TCA9548A
+- [TCA9548A Library](https://github.com/WifWaf/TCA9548A)
+- [TCA9548A Product Page](https://learn.adafruit.com/adafruit-tca9548a-1-to-8-i2c-multiplexer-breakout)
+
+#### DS3231
+- [DS3231 Library](https://github.com/adafruit/RTClib)
+- [DS3231 RTC Module](https://components101.com/modules/ds3231-rtc-module-pinout-circuit-datasheet)
+
+#### SSD1306
+- [SSD1306 Library](https://github.com/adafruit/RTClib)
+- [SSD1306 Product Page](https://www.adafruit.com/product/326)
+
 #### SD Card Module
 - [ESP32 Logging to MicroSD Card](https://randomnerdtutorials.com/esp32-data-logging-temperature-to-microsd-card/)
 - [Interfacing Micro SD Card Module](https://lastminuteengineers.com/arduino-micro-sd-card-module-tutorial/)

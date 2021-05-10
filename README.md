@@ -38,7 +38,7 @@ Portable Analog Sensor logging device built with ESP32, TCA9548A,ADS1115,SSD1306
 | Hex Code | Function | Description |
 | :---: | --- | --- |
 | 0x00 | None                             | Code Not Assigned |
-| 0x01 | Get device status                | Get current ADS1115 device statue code (see GPS Status Flags) |
+| 0x01 | Get device status                | Get current ADS1115 device statue code (see Datalogger Status Flags) |
 | 0x02 | Toggle ADS1115 All Ch  on        | Turn ADS1115 All Channel Sensing on |
 | 0x03 | Toggle ADS1115 All Ch  off       | Turn ADS1115 All Channel Sensing off |
 | 0x04 | Toggle ADS1115 Ch#00 on           | Turn ADS1115 Channel # 0 Sensing on |
